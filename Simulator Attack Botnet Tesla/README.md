@@ -1,1 +1,1 @@
-![](sr.gif)
+![](pybotnet.gif)
