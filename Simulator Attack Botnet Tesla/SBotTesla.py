@@ -1,8 +1,6 @@
 #-*- encoding:utf-8 -*-
 #Botnet Tesla
 import time, random
-from Tkinter import*
-
 
 var, timer, address = False, 0.1, "190.200.31.185"
 def syncall():
